@@ -21,16 +21,17 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
-Hola {}, mi nombre es *{}*! 
-Soy un bot de gestión de grupo con tematica de Anime.
+Hola {} mi nombre es *{}*!
+Soy un bot de gestión de un grupo con temática Anime, 
+puedes escontrar mi lista de comandos disponibles con 
+/help y con gusto te ayudaré :3
 
-Puedes encontrar mi lista de comandos disponibles con /help.
 """
 
 HELP_STRINGS = """
 Hola, mi nombre es *{}*!
-Soy una amante a las explosiones y ayudo a los administradores a administrar sus grupos con Explosion!
-Echa un vistazo a lo siguiente para ver algunas de las cosas con las que puedo ayudarte.
+Esperó pode ayudarte en todo lo que necesites y ser de tu ayuda con mis comando!!
+mira  a ver si algo de lo q tengo te interesa!
 
 *Principales comandos disponibles*:
  • /start: Inicie el bot
@@ -46,7 +47,7 @@ Y lo siguiente:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nTodos los comandos pueden usarse con / o !\n")
 
-TOMAN_IMG = "https://telegra.ph/file/4645f09a45e70298624d7.jpg"
+TOMAN_IMG = "https://pub-00fa5790a3c142428a65f4a7f2fae1b5.r2.dev/19335876/1671143042639b9e82668a1.jpg"
 
 DONATE_STRING = """Heya, me alegra oír que quieres donar! Puedes hablar con @NachABR.
 Tambien puedes donar al escritor original del código Base, Paul. Hay dos maneras de apoyarlo; [PayPal](paypal.me/PaulSonOfLars), o [Monzo](monzo.me/paulnionvestergaardlarsen)."""
