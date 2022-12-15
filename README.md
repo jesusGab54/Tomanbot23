@@ -1,4 +1,4 @@
-![TomanBot](https://telegra.ph/file/4645f09a45e70298624d7.jpg)
+![TomanBot](https://pub-00fa5790a3c142428a65f4a7f2fae1b5.r2.dev/19333393/1671140399639b942fc98d1.jpg)
 # Toman Bot 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
