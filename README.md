@@ -35,7 +35,7 @@ Ahora envíe el bot /start. Si no responde, vaya a https://dashboard.heroku.com/
  <summary>Pasos para hostearlo!!</summary>
 
 
-Nota: Este conjunto de instrucciones es solo una copia y pegado de Marie, tenga en cuenta que [Toman Support](https://t.me/TomanSupport) tiene como objetivo manejar el soporte para @MeguABR_Bot y no cómo configurar su propia bifurcación. Si encuentra esto un poco confuso/difícil de entender, le recomendamos que pregunte a un desarrollador, por favor evite preguntar cómo configurar la instancia del bot en el chat de soporte, tiene como objetivo ayudar a nuestra propia instancia del bot y no a las bifurcaciones.
+Nota: Este conjunto de instrucciones es solo una copia y pegado de Marie, tenga en cuenta que [@NeneSupportBot](https://t.me/NeneSupportBot) tiene como objetivo manejar el soporte para @NeneMomosuzuBot y no cómo configurar su propia bifurcación. Si encuentra esto un poco confuso/difícil de entender, le recomendamos que pregunte a un desarrollador, por favor evite preguntar cómo configurar la instancia del bot en el chat de soporte, tiene como objetivo ayudar a nuestra propia instancia del bot y no a las bifurcaciones.
 
   ## Configuración del bot (¡lea esto antes de intentar usarlo!):
 ¡Asegúrese de usar python3.6, ya que no puedo garantizar que todo funcione como se esperaba en versiones anteriores de Python!
