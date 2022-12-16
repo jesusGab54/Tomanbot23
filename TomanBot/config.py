@@ -4,10 +4,10 @@ class Development(Config):
     OWNER_ID = 5516142677 # Su ID de telegram.
     OWNER_USERNAME = "Remnashi" # Su nombre de usuario de telegram.
     API_KEY = "DWPFBQ-MHGMCG-PRJUJY-NHSPWI-ARQ" # Su clave api, tal como la proporciona @botfather.
-    SQLALCHEMY_DATABASE_URI = 'postgres://dzpawnsj:2ZrIeM5vzxBhW8N4R6C_9nJTsZ2pWhcF@raja.db.elephant>
+    SQLALCHEMY_DATABASE_URI = 'postgres://dzpawnsj:2ZrIeM5vzxBhW8N4R6C_9nJTsZ2pWhcF@raja.db.elephantsql.com/dzpawnsj'
     MESSAGE_DUMP = '-1001891927588' # Algún chat grupal donde su bot este ahí.
     USE_MESSAGE_DUMP = True
-    SUDO_USERS = [5676170494, 5932340111] # Lista de identificadores de usuarios que tienen acceso s>
+    SUDO_USERS = [5676170494, 5932340111] # Lista de identificadores de usuarios que tienen acceso s
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     DEV_USERS = [21396580, 954299697, 5010209835, 5676170494, 5492224551, 5516142677]
