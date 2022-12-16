@@ -55,7 +55,7 @@ valores predeterminados establecidos en sample_config, lo que facilita la actual
 
 Un ejemplo de archivo `config.py` podría ser:
 ```
-from MeguBot.sample_config import Config
+from TomanBot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 254318997 # Su ID de telegram.
